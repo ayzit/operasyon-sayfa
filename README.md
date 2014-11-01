@@ -1,2 +1,3 @@
 operasyon-sayfa
 ===============
+değişiklik yaptım
